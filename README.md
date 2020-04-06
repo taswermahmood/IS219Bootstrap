@@ -8,5 +8,5 @@ files, it will automatically build your project and update your browser without 
 
 ![WebStorm Gulp Config](screenshots/gulp.png)
 
-![WebStorm Gulp Config](screenshots/B.jpg)
+![WebStorm Gulp Config](screenshots/B.JPG)
 
