@@ -4,7 +4,7 @@ with partial html files.
 
 
 
-![WebStorm Gulp Config](screenshots/gulp.png)
+![WebStorm Gulp Config](screenshots/gulp.PNG)
 
 ![WebStorm Gulp Config](screenshots/B.JPG)
 
